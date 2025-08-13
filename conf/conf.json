@@ -271,20 +271,8 @@
                 {
                   "children": [
                     {
-                      "active": true,
-                      "activeTime": "1755074196327",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20250813161244-u05q2f4",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20250813155540-iyhtxt2",
-                        "rootId": "20250813161244-u05q2f4"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "记不住一点"
+                      "children": {},
+                      "instance": "Tab"
                     }
                   ],
                   "height": "",
