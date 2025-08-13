@@ -1,0 +1,82 @@
+{
+  "local-codelang": "markdown",
+  "local-dialogposition": {
+    "dialog-setting": {
+      "height": 749,
+      "left": 93,
+      "top": 41,
+      "width": 1280
+    }
+  },
+  "local-emojis": {
+    "currentTab": "emoji"
+  },
+  "local-fileposition": {
+    "20200812220555-lj3enxa": {
+      "endId": "20240508001403-j8ceveg",
+      "focusEnd": 8,
+      "focusId": "20240507235407-itfe7y7",
+      "focusStart": 8,
+      "rootId": "20200812220555-lj3enxa",
+      "scrollTop": 1239,
+      "startId": "20241125224159-8zf3bos"
+    },
+    "20230808120348-vaxi6eq": {
+      "endId": "20230808120348-s0gs9b6",
+      "focusEnd": 0,
+      "focusId": "20230808120348-xn6zn6o",
+      "focusStart": 0,
+      "rootId": "20230808120348-vaxi6eq",
+      "scrollTop": 0,
+      "startId": "20230808120348-xn6zn6o"
+    },
+    "20250813155515-m1ifgzy": {
+      "endId": "20250813155515-rrjsx9h",
+      "rootId": "20250813155515-m1ifgzy",
+      "scrollTop": 0,
+      "startId": "20250813155515-rrjsx9h"
+    },
+    "20250813155541-as1x8nx": {
+      "endId": "20250813164548-wlpzhv2",
+      "focusEnd": 0,
+      "focusId": "20250813164548-wlpzhv2",
+      "focusStart": 0,
+      "rootId": "20250813155541-as1x8nx",
+      "scrollTop": 0,
+      "startId": "20250813160219-f48tnhl"
+    },
+    "20250813165215-az8lfjj": {
+      "endId": "20250813165218-nzrrpgx",
+      "focusEnd": 286,
+      "focusId": "20250813165218-u53410r",
+      "focusStart": 286,
+      "rootId": "20250813165215-az8lfjj",
+      "scrollTop": 0,
+      "startId": "20250813165218-u53410r"
+    },
+    "20250813165604-yonh280": {
+      "endId": "20250813165612-qc35v3b",
+      "focusEnd": 10,
+      "focusId": "20250813165612-qc35v3b",
+      "focusStart": 10,
+      "rootId": "20250813165604-yonh280",
+      "scrollTop": 0,
+      "startId": "20250813165612-oljzayr"
+    }
+  },
+  "local-filespaths": [
+    {
+      "notebookId": "20250813155540-iyhtxt2",
+      "openPaths": [
+        "/20250813165604-yonh280.sy"
+      ]
+    }
+  ],
+  "local-fontstyles": [
+    "style1​var(--b3-card-error-background)​var(--b3-card-error-color)",
+    "style1​var(--b3-card-info-background)​var(--b3-card-info-color)"
+  ],
+  "local-plugin-docks": {
+    "siyuan-plugin-code-block": {}
+  }
+}

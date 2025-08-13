@@ -1,11 +1,12 @@
 {
-  "local-codelang": "markdown",
+  "local-codelang": "",
+  "local-dailynoteid": "20250813175033-kvc42hc",
   "local-dialogposition": {
     "dialog-setting": {
       "height": 749,
-      "left": 71,
-      "top": 41,
-      "width": 1284
+      "left": 65,
+      "top": 32,
+      "width": 1280
     }
   },
   "local-emojis": {
@@ -14,12 +15,102 @@
   "local-fileposition": {
     "20200812220555-lj3enxa": {
       "endId": "20240508001403-j8ceveg",
-      "focusEnd": 8,
-      "focusId": "20240507235407-itfe7y7",
-      "focusStart": 8,
+      "focusEnd": 2,
+      "focusId": "20240507235404-a4zaqww",
+      "focusStart": 2,
       "rootId": "20200812220555-lj3enxa",
-      "scrollTop": 1239,
+      "scrollTop": 1000,
       "startId": "20241125224159-8zf3bos"
+    },
+    "20200813093015-u6bopdt": {
+      "endId": "20230415111923-37gvzqk",
+      "focusEnd": 0,
+      "focusId": "20210428213311-2hv9zwx",
+      "focusStart": 0,
+      "rootId": "20200813093015-u6bopdt",
+      "scrollTop": 0,
+      "startId": "20210428213311-2hv9zwx"
+    },
+    "20200813163359-v04n73b": {
+      "endId": "20250620101231-b63p8c6",
+      "focusEnd": 0,
+      "focusId": "20250620101029-jaaw0bx",
+      "focusStart": 0,
+      "rootId": "20200813163359-v04n73b",
+      "scrollTop": 0,
+      "startId": "20250620101029-jaaw0bx"
+    },
+    "20200822191536-rm6hwid": {
+      "endId": "20210104091259-86iaf33",
+      "focusEnd": 0,
+      "focusId": "20210104091259-0s2m8p3",
+      "focusStart": 0,
+      "rootId": "20200822191536-rm6hwid",
+      "scrollTop": 0,
+      "startId": "20210104091259-0s2m8p3"
+    },
+    "20201121212605-9td1a62": {
+      "endId": "20230820173510-7yqgjxi",
+      "focusEnd": 0,
+      "focusId": "20210924163203-lxaclhb",
+      "focusStart": 0,
+      "rootId": "20201121212605-9td1a62",
+      "scrollTop": 0,
+      "startId": "20210924163203-lxaclhb"
+    },
+    "20210117211155-56n4odu": {
+      "endId": "20220626213507-6er6cfn",
+      "focusEnd": 0,
+      "focusId": "20210117212652-vpmkfab",
+      "focusStart": 0,
+      "rootId": "20210117211155-56n4odu",
+      "scrollTop": 0,
+      "startId": "20210117212652-vpmkfab"
+    },
+    "20220628204444-9n0y9h2": {
+      "endId": "20220628210345-fsoqtka",
+      "focusEnd": 0,
+      "focusId": "20220628204444-yil2u2m",
+      "focusStart": 0,
+      "rootId": "20220628204444-9n0y9h2",
+      "scrollTop": 333,
+      "startId": "20220628204444-yil2u2m"
+    },
+    "20230405155631-leo4vc6": {
+      "endId": "20230405171539-llfg8mm",
+      "focusEnd": 0,
+      "focusId": "20230405155631-0xw341e",
+      "focusStart": 0,
+      "rootId": "20230405155631-leo4vc6",
+      "scrollTop": 0,
+      "startId": "20230405155631-0xw341e"
+    },
+    "20230422103807-d46wjhs": {
+      "endId": "20230422103921-3f5n674",
+      "focusEnd": 0,
+      "focusId": "20230422112334-gs95gig",
+      "focusStart": 0,
+      "rootId": "20230422103807-d46wjhs",
+      "scrollTop": 0,
+      "startId": "20230422112334-gs95gig"
+    },
+    "20230428153709-hioyy5l": {
+      "endId": "20230428162527-zil49lr",
+      "focusEnd": 0,
+      "focusId": "20230428153709-sc7nv54",
+      "focusStart": 0,
+      "rootId": "20230428153709-hioyy5l",
+      "scrollTop": 0,
+      "startId": "20230428153709-sc7nv54"
+    },
+    "20230519105228-hm0y74i": {
+      "endId": "20230519111423-06jsy8x",
+      "focusEnd": 0,
+      "focusId": "20230519110330-gcjb0yi",
+      "focusStart": 0,
+      "rootId": "20230519105228-hm0y74i",
+      "scrollTop": 0,
+      "startId": "20230519110202-1k238kq"
     },
     "20230808120348-vaxi6eq": {
       "endId": "20230808120348-s0gs9b6",
@@ -30,6 +121,24 @@
       "scrollTop": 0,
       "startId": "20230808120348-xn6zn6o"
     },
+    "20240113102857-c63dmo5": {
+      "endId": "20250114215221-sl97cs4",
+      "focusEnd": 0,
+      "focusId": "20240113102857-aof1w7f",
+      "focusStart": 0,
+      "rootId": "20240113102857-c63dmo5",
+      "scrollTop": 333,
+      "startId": "20240113102857-aof1w7f"
+    },
+    "20240317200013-fim8wm8": {
+      "endId": "20240317201708-e6uwpl2",
+      "focusEnd": 0,
+      "focusId": "20240317200558-gwf2uwd",
+      "focusStart": 0,
+      "rootId": "20240317200013-fim8wm8",
+      "scrollTop": 0,
+      "startId": "20240317200016-xvywk4p"
+    },
     "20250813155515-m1ifgzy": {
       "endId": "20250813155515-rrjsx9h",
       "rootId": "20250813155515-m1ifgzy",
@@ -38,18 +147,18 @@
     },
     "20250813155541-as1x8nx": {
       "endId": "20250813164548-wlpzhv2",
-      "focusEnd": 0,
-      "focusId": "20250813164548-wlpzhv2",
-      "focusStart": 0,
+      "focusEnd": 8,
+      "focusId": "20250813160219-f48tnhl",
+      "focusStart": 8,
       "rootId": "20250813155541-as1x8nx",
       "scrollTop": 0,
       "startId": "20250813160219-f48tnhl"
     },
     "20250813165215-az8lfjj": {
       "endId": "20250813165218-nzrrpgx",
-      "focusEnd": 286,
+      "focusEnd": 36,
       "focusId": "20250813165218-u53410r",
-      "focusStart": 286,
+      "focusStart": 36,
       "rootId": "20250813165215-az8lfjj",
       "scrollTop": 0,
       "startId": "20250813165218-u53410r"
@@ -64,28 +173,137 @@
       "startId": "20250813165612-oljzayr"
     },
     "20250813170725-vu54teg": {
-      "endId": "20250813170739-5d6ajmv",
-      "focusEnd": 10,
-      "focusId": "20250813170739-5d6ajmv",
-      "focusStart": 10,
+      "endId": "20250813181140-yuwnh8m",
+      "focusEnd": 0,
+      "focusId": "20250813180959-dxaiupr",
+      "focusStart": 0,
       "rootId": "20250813170725-vu54teg",
-      "scrollTop": 1535,
+      "scrollTop": 0,
       "startId": "20250813170739-wbhp2bs"
+    },
+    "20250813175036-6wutaem": {
+      "endId": "20250813182507-u5it2fb",
+      "focusEnd": 0,
+      "focusId": "20250813182507-u5it2fb",
+      "focusStart": 0,
+      "rootId": "20250813175036-6wutaem",
+      "scrollTop": 113,
+      "startId": "20250813175049-4nxb2dr"
+    },
+    "20250813180003-c8sopai": {
+      "endId": "20250813180003-3uluj5q",
+      "rootId": "20250813180003-c8sopai",
+      "scrollTop": 0,
+      "startId": "20250813180003-3uluj5q"
+    },
+    "20250813181655-webf9mk": {
+      "endId": "20250813183159-38yycwz",
+      "focusEnd": 0,
+      "focusId": "20250813181701-y0lll5z",
+      "focusStart": 0,
+      "rootId": "20250813181655-webf9mk",
+      "scrollTop": 0,
+      "startId": "20250813181701-y0lll5z"
+    },
+    "20250813182514-kk8ecjk": {
+      "endId": "20250813182514-jzqlsp2",
+      "rootId": "20250813182514-kk8ecjk",
+      "scrollTop": 0,
+      "startId": "20250813182514-jzqlsp2"
+    },
+    "20250813182627-juq6i0m": {
+      "endId": "20250813182921-43fr1i8",
+      "focusEnd": 0,
+      "focusId": "20250813182921-kup88q3",
+      "focusStart": 0,
+      "rootId": "20250813182627-juq6i0m",
+      "scrollTop": 0,
+      "startId": "20250813182921-kup88q3"
+    },
+    "20250813182845-a7eoobc": {
+      "endId": "20250813182845-kdb9epl",
+      "focusEnd": 0,
+      "focusId": "20250813182845-kdb9epl",
+      "focusStart": 0,
+      "rootId": "20250813182845-a7eoobc",
+      "scrollTop": 0,
+      "startId": "20250813182845-kdb9epl"
+    },
+    "20250813182845-aio6hkf": {
+      "endId": "20250813182845-rlxr7aq",
+      "focusEnd": 0,
+      "focusId": "20250813182845-rlxr7aq",
+      "focusStart": 0,
+      "rootId": "20250813182845-aio6hkf",
+      "scrollTop": 0,
+      "startId": "20250813182845-rlxr7aq"
+    },
+    "20250813182845-sttnv14": {
+      "endId": "20250813182845-tze0cke",
+      "focusEnd": 0,
+      "focusId": "20250813182845-tze0cke",
+      "focusStart": 0,
+      "rootId": "20250813182845-sttnv14",
+      "scrollTop": 0,
+      "startId": "20250813182845-tze0cke"
+    },
+    "20250813184338-h1ypqo4": {
+      "endId": "20250813184401-phwgaea",
+      "focusEnd": 0,
+      "focusId": "20250813184338-p9zn4nu",
+      "focusStart": 0,
+      "rootId": "20250813184338-h1ypqo4",
+      "scrollTop": 0,
+      "startId": "20250813184338-p9zn4nu"
     }
   },
   "local-filespaths": [
     {
       "notebookId": "20250813155540-iyhtxt2",
       "openPaths": [
-        "/20250813170725-vu54teg.sy"
+        "/20250813165215-az8lfjj/20250813184338-h1ypqo4.sy"
+      ]
+    },
+    {
+      "notebookId": "20250813175033-kvc42hc",
+      "openPaths": [
+        "/20250813175036-6wutaem.sy"
       ]
     }
   ],
   "local-fontstyles": [
+    "fontSize​16px",
+    "fontSize​1em",
+    "color​var(--b3-font-color2)",
+    "clear​undefined",
+    "style4​undefined",
+    "style2​undefined",
     "style1​var(--b3-card-error-background)​var(--b3-card-error-color)",
     "style1​var(--b3-card-info-background)​var(--b3-card-info-color)"
   ],
+  "local-move-path": {
+    "k": "",
+    "keys": []
+  },
   "local-plugin-docks": {
     "siyuan-plugin-code-block": {}
+  },
+  "local-searchkeys": {
+    "col": "",
+    "colTab": "",
+    "keys": [
+      "#不会记#",
+      "R2",
+      "视频",
+      "#网易云歌曲直链#",
+      "#代码#",
+      "a5dd56cbcf96694409e1453ad6995cd6",
+      "#​https://music.163.com/song/media/outer/url?id=xxx.mp3#"
+    ],
+    "layout": 0,
+    "layoutTab": 0,
+    "replaceKeys": [],
+    "row": "",
+    "rowTab": ""
   }
 }

@@ -111,13 +111,15 @@
     "fontFamily": "",
     "codeSyntaxHighlightLineNum": false,
     "codeTabSpaces": 0,
-    "codeLineWrap": false,
+    "codeLineWrap": true,
     "codeLigatures": false,
     "displayBookmarkIcon": true,
     "displayNetImgMark": true,
     "generateHistoryInterval": 10,
     "historyRetentionDays": 30,
     "emoji": [
+      "1f92a",
+      "1f623",
       "1f601",
       "1f970",
       "1f600"
@@ -259,8 +261,20 @@
                 {
                   "children": [
                     {
-                      "children": {},
-                      "instance": "Tab"
+                      "active": true,
+                      "activeTime": "1755082389960",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20250813175036-6wutaem",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20250813175033-kvc42hc",
+                        "rootId": "20250813175036-6wutaem"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "零食记"
                     }
                   ],
                   "height": "",
@@ -368,8 +382,8 @@
             "icon": "iconBookmark",
             "show": false,
             "size": {
-              "height": 0,
-              "width": 232
+              "height": 145,
+              "width": 271
             },
             "title": "书签",
             "type": "bookmark"
@@ -380,8 +394,8 @@
             "icon": "iconTags",
             "show": false,
             "size": {
-              "height": 0,
-              "width": 232
+              "height": 167,
+              "width": 271
             },
             "title": "标签",
             "type": "tag"
@@ -1150,7 +1164,7 @@
     "synced": 0,
     "stat": "",
     "generateConflictDoc": false,
-    "provider": 0,
+    "provider": 4,
     "s3": {
       "endpoint": "",
       "accessKey": "",
@@ -1244,13 +1258,13 @@
     "petalDisabled": false
   },
   "stat": {
-    "treeCount": 2,
+    "treeCount": 4,
     "cTreeCount": 100,
-    "blockCount": 52,
+    "blockCount": 90,
     "cBlockCount": 5000,
-    "dataSize": 1525770,
+    "dataSize": 16222366,
     "cDataSize": 104857600,
-    "assetsSize": 1430239,
+    "assetsSize": 15417451,
     "cAssetsSize": 104857600
   },
   "api": {
