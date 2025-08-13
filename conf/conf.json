@@ -133,7 +133,11 @@
     "displayNetImgMark": true,
     "generateHistoryInterval": 10,
     "historyRetentionDays": 30,
-    "emoji": [],
+    "emoji": [
+      "1f601",
+      "1f970",
+      "1f600"
+    ],
     "virtualBlockRef": false,
     "virtualBlockRefExclude": "",
     "virtualBlockRefInclude": "",

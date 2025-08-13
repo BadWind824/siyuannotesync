@@ -8,6 +8,9 @@
       "width": 1280
     }
   },
+  "local-emojis": {
+    "currentTab": "emoji"
+  },
   "local-fileposition": {
     "20200812220555-lj3enxa": {
       "endId": "20240508001403-j8ceveg",
@@ -39,7 +42,7 @@
       "focusId": "20250813164548-wlpzhv2",
       "focusStart": 0,
       "rootId": "20250813155541-as1x8nx",
-      "scrollTop": 455,
+      "scrollTop": 0,
       "startId": "20250813160219-f48tnhl"
     },
     "20250813165215-az8lfjj": {
@@ -57,7 +60,7 @@
       "focusId": "20250813165612-qc35v3b",
       "focusStart": 10,
       "rootId": "20250813165604-yonh280",
-      "scrollTop": 1535,
+      "scrollTop": 0,
       "startId": "20250813165612-oljzayr"
     }
   },
