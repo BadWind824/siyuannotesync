@@ -7,28 +7,12 @@
       {
         "name": "midnight",
         "label": "midnight（默认主题）"
-      },
-      {
-        "name": "QYL",
-        "label": "QYL"
-      },
-      {
-        "name": "Savor",
-        "label": "写味（Savor）"
       }
     ],
     "lightThemes": [
       {
         "name": "daylight",
         "label": "daylight（默认主题）"
-      },
-      {
-        "name": "QYL",
-        "label": "QYL"
-      },
-      {
-        "name": "Savor",
-        "label": "写味（Savor）"
       }
     ],
     "themeDark": "midnight",
@@ -485,10 +469,10 @@
     "isMicrosoftStore": false,
     "isInsider": false,
     "homeDir": "C:\\Users\\28216",
-    "workspaceDir": "C:\\Users\\28216\\SiYuan",
+    "workspaceDir": "D:\\MySoftwares\\SiYuan\\mydata",
     "appDir": "D:\\MySoftwares\\SiYuan\\resources",
-    "confDir": "C:\\Users\\28216\\SiYuan\\conf",
-    "dataDir": "C:\\Users\\28216\\SiYuan\\data",
+    "confDir": "D:\\MySoftwares\\SiYuan\\mydata\\conf",
+    "dataDir": "D:\\MySoftwares\\SiYuan\\mydata\\data",
     "networkServe": false,
     "networkProxy": {
       "scheme": "",
@@ -1262,11 +1246,11 @@
   "stat": {
     "treeCount": 2,
     "cTreeCount": 100,
-    "blockCount": 41,
+    "blockCount": 52,
     "cBlockCount": 5000,
-    "dataSize": 88206,
+    "dataSize": 1525770,
     "cDataSize": 104857600,
-    "assetsSize": 0,
+    "assetsSize": 1430239,
     "cAssetsSize": 104857600
   },
   "api": {

@@ -3,9 +3,9 @@
   "local-dialogposition": {
     "dialog-setting": {
       "height": 749,
-      "left": 93,
+      "left": 71,
       "top": 41,
-      "width": 1280
+      "width": 1284
     }
   },
   "local-emojis": {
@@ -62,13 +62,22 @@
       "rootId": "20250813165604-yonh280",
       "scrollTop": 0,
       "startId": "20250813165612-oljzayr"
+    },
+    "20250813170725-vu54teg": {
+      "endId": "20250813170739-5d6ajmv",
+      "focusEnd": 10,
+      "focusId": "20250813170739-5d6ajmv",
+      "focusStart": 10,
+      "rootId": "20250813170725-vu54teg",
+      "scrollTop": 1535,
+      "startId": "20250813170739-wbhp2bs"
     }
   },
   "local-filespaths": [
     {
       "notebookId": "20250813155540-iyhtxt2",
       "openPaths": [
-        "/20250813165604-yonh280.sy"
+        "/20250813170725-vu54teg.sy"
       ]
     }
   ],
