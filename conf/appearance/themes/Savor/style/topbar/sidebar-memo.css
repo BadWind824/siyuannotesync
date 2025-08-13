@@ -1,0 +1,87 @@
+/* 侧边栏备注区渐显动画 */
+.Sv-memo #protyle-sidebar{
+    animation: SvMemoFadeIn 0.5s cubic-bezier(0.4,0,0.2,1) 1;
+    animation-delay: 0.5s; /* 新增：延迟1秒后再播放动画 */
+    opacity: 0; /* 初始隐藏 */
+    animation-fill-mode: forwards; /* 动画结束后保持最终状态 */
+}
+@keyframes SvMemoFadeIn {
+    from { opacity: 0; transform: translateY(16px); }
+    to   { opacity: 1; transform: none; }
+}
+
+@keyframes memoHighlightFade {
+  0% { background-color: var(--b3-theme-primary-lightest); }
+  80% { background-color: var(--b3-theme-primary-lightest); }
+  100% { background-color: transparent; }
+}
+.memo-highlight {
+  animation: memoHighlightFade 1.2s cubic-bezier(0.4,0,0.2,1);
+}
+
+body:not(.body--mobile){
+    .Sv-memo[data-fullwidth="true"]{
+        .protyle-wysiwyg {
+            width: calc(100% - 230px) !important;
+            min-width: unset !important
+        }
+            #protyle-sidebar {
+            right: 0px !important
+        }
+    }
+
+    /* 编辑状态样式 */
+
+    .memo-item, .memo-edit-input {
+        min-height: 32px;
+        box-sizing: border-box;
+    }
+
+    .memo-title-with-dot {
+        display: flex;
+        align-items: flex-start;
+        color:var(--b3-theme-on-surface);
+        word-wrap: break-word;
+        word-break: break-word;
+        overflow-wrap: break-word;
+    }
+
+    .memo-title-dot {
+        display: inline-block;
+        width: 4px;
+        border-radius: 3px;
+        background: var(--b3-theme-primary);
+        margin-right: 6px;
+        flex-shrink: 0;
+        align-self: stretch; /* 让竖条高度和父 flex 容器一样高 */
+    }
+
+    .memo-item {
+        background-color: var(--Sv-protyle-toolbar-bg);
+        & button{
+            height: 24px;
+            width: 24px;
+            opacity: 0;
+        }
+        & button .b3-menu__icon{
+            width: 14px;
+            height: 14px;
+            color: var(--Sv-dock-item--activefocus-color);
+            margin: 5px;
+        }
+        &:hover{
+            transform: translateX(-8px);
+            & .memo-title-dot {
+                background: var(--Sv-dock-item--activefocus-background);
+            }
+            & button{
+                opacity: 1;
+            }
+        }
+    }
+}
+
+.memo-content-view{
+    word-wrap: break-word;
+    white-space: break-spaces;
+}
