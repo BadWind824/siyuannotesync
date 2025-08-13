@@ -39,7 +39,7 @@
       "focusId": "20250813164548-wlpzhv2",
       "focusStart": 0,
       "rootId": "20250813155541-as1x8nx",
-      "scrollTop": 0,
+      "scrollTop": 455,
       "startId": "20250813160219-f48tnhl"
     },
     "20250813161244-u05q2f4": {
@@ -50,15 +50,28 @@
       "rootId": "20250813161244-u05q2f4",
       "scrollTop": 1535,
       "startId": "20250813161253-1qxixlv"
+    },
+    "20250813165215-az8lfjj": {
+      "endId": "20250813165218-nzrrpgx",
+      "focusEnd": 743,
+      "focusId": "20250813165218-u53410r",
+      "focusStart": 743,
+      "rootId": "20250813165215-az8lfjj",
+      "scrollTop": 0,
+      "startId": "20250813165218-u53410r"
     }
   },
   "local-filespaths": [
     {
       "notebookId": "20250813155540-iyhtxt2",
       "openPaths": [
-        "/20250813161244-u05q2f4.sy"
+        "/20250813165215-az8lfjj.sy"
       ]
     }
+  ],
+  "local-fontstyles": [
+    "style1​var(--b3-card-error-background)​var(--b3-card-error-color)",
+    "style1​var(--b3-card-info-background)​var(--b3-card-info-color)"
   ],
   "local-plugin-docks": {
     "siyuan-plugin-code-block": {}
