@@ -271,20 +271,8 @@
                 {
                   "children": [
                     {
-                      "active": true,
-                      "activeTime": "1755075303811",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20250813165215-az8lfjj",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20250813155540-iyhtxt2",
-                        "rootId": "20250813165215-az8lfjj"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "APEX英雄 S25启动项整理"
+                      "children": {},
+                      "instance": "Tab"
                     }
                   ],
                   "height": "",
