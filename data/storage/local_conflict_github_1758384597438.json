@@ -1,0 +1,100 @@
+{
+  "local-codelang": "markdown",
+  "local-dailynoteid": "20250813175033-kvc42hc",
+  "local-dialogposition": {
+    "dialog-backgroundrandom": {
+      "height": 583,
+      "left": 256,
+      "top": 119,
+      "width": 912
+    },
+    "dialog-search": {
+      "height": 762,
+      "left": 142,
+      "top": 41,
+      "width": 1138
+    },
+    "dialog-setting": {
+      "height": 749,
+      "left": 65,
+      "top": 32,
+      "width": 1280
+    }
+  },
+  "local-docinfo": {
+    "id": "20250813175036-6wutaem"
+  },
+  "local-emojis": {
+    "currentTab": "emoji"
+  },
+  "local-fileposition": {
+    "20200812220555-lj3enxa": {
+      "endId": "20240508001403-j8ceveg",
+      "rootId": "20200812220555-lj3enxa",
+      "scrollTop": 0,
+      "startId": "20241125224159-8zf3bos"
+    },
+    "20250813175036-6wutaem": {
+      "endId": "20250912154802-flpkujk",
+      "rootId": "20250813175036-6wutaem",
+      "scrollTop": 1989,
+      "startId": "20250813175049-4nxb2dr"
+    }
+  },
+  "local-filespaths": [
+    {
+      "notebookId": "20250813155540-iyhtxt2",
+      "openPaths": [
+        "/20250813165215-az8lfjj/20250813184338-h1ypqo4.sy"
+      ]
+    },
+    {
+      "notebookId": "20250813175033-kvc42hc",
+      "openPaths": [
+        "/20250825152403-ll7u0e1/20250902133824-zlmghgj.sy"
+      ]
+    }
+  ],
+  "local-flashcard": {
+    "fullscreen": false
+  },
+  "local-fontstyles": [
+    "clear​undefined",
+    "style4​undefined",
+    "style2​undefined",
+    "color​",
+    "color​var(--b3-font-color1)",
+    "backgroundColor​",
+    "backgroundColor​var(--b3-font-background9)",
+    "fontSize​16px"
+  ],
+  "local-move-path": {
+    "k": "",
+    "keys": []
+  },
+  "local-plugin-docks": {
+    "siyuan-plugin-code-block": {}
+  },
+  "local-searchkeys": {
+    "col": "",
+    "colTab": "",
+    "keys": [
+      "我",
+      "不管",
+      "#记也记不住#",
+      "#​https://store.storevideos.cdn-apple.com/v1/store.apple.com/st/1666383693478/atvloop-video-202210/streams_atvloop-video-202210/1920x1080/fileSequence3.m4s#",
+      "#不会记#",
+      "R2",
+      "视频",
+      "#网易云歌曲直链#",
+      "#代码#",
+      "a5dd56cbcf96694409e1453ad6995cd6",
+      "#​https://music.163.com/song/media/outer/url?id=xxx.mp3#"
+    ],
+    "layout": 0,
+    "layoutTab": 0,
+    "replaceKeys": [],
+    "row": "",
+    "rowTab": ""
+  }
+}
